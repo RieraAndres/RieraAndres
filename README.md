@@ -24,7 +24,6 @@ Durante mi formación en SoyHenry, adquirí conocimientos en tecnologías web mo
 
 ¡No dudes en contactarme!
 
-|DesarrolladorFullStack |JavaScript |React |Node.js |WebDevelopment
   
   
 
