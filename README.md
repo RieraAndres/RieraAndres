@@ -45,7 +45,7 @@ Mi objetivo es impulsar el mundo digital a través de soluciones creativas y efi
 
 
 ### 🔨 Trabajando en...  
-- 🌱 Actualmente cursando el bootcamp SoyHenry  
+- 🌱 Actualmente estoy desarrollando una SPA para Portal Distribuidora SRL
   
 
 <br/>  
