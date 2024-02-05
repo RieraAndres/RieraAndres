@@ -45,8 +45,7 @@ Mi objetivo es impulsar el mundo digital a través de soluciones creativas y efi
 
 
 ### 🔨 Trabajando en...  
-- 🌱 Actualmente estoy desarrollando una SPA para Portal Distribuidora SRL
-  
+- 🌱 Actualmente estoy desarrollando una pagina de encuestas opina.com
 
 <br/>  
 
