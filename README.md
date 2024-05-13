@@ -18,34 +18,36 @@
 
 
 
-### Un poco sobre mi  
-Hola! Soy Andres Riera, estudiante de desarrollo Full Stack con una sólida formación en el curso de SoyHenry. 
-Durante mi formación en SoyHenry, adquirí conocimientos en tecnologías web modernas, incluyendo HTML, CSS, JavaScript, React, Node.js, y bases de datos. Además, tengo experiencia en el desarrollo de aplicaciones web, lo que me permite crear productos interactivos y de alto rendimiento.
+### Un poco sobre mi / About me 
+Hola! Soy Andres Riera,desarrollador Full Stack con una sólida formación. 
+Durante mi formación, adquirí conocimientos en tecnologías web modernas, incluyendo HTML, CSS, JavaScript, React, Node.js, y bases de datos. Además, tengo experiencia en el desarrollo de aplicaciones web, lo que me permite crear productos interactivos y de alto rendimiento.
 
 ¡No dudes en contactarme!
 
+Hello! I'm Andres Riera, a Full Stack developer with a strong background. During my training, I acquired knowledge in modern web technologies, including HTML, CSS, JavaScript, React, Node.js, and databases. Additionally, I have experience in web application development, which allows me to create interactive and high-performance products. Feel free to contact me!
   
-  
 
 
 
-### ¿Quien soy?  
+### ¿Quien soy? / Who am i?  
 Soy colaborador, entusiasta y siempre estoy ansioso por aprender y enfrentar nuevos desafíos. Me gusta trabajar en equipo, compartiendo ideas y conocimientos para lograr buenos resultados.   
   
 
+I am a collaborator, enthusiastic, and always eager to learn and take on new challenges. I enjoy working in teams, sharing ideas and knowledge to achieve good results.
 
-
-### Objetivo  
+### Objetivo / Goal
 Mi objetivo es impulsar el mundo digital a través de soluciones creativas y eficientes. Crecer profesionalmente, aprendiendo nuevas tecnologías y mejores prácticas para desarrollar soluciones que impacten positivamente en la vida de las personas.
-  
+
+
+My goal is to drive the digital world forward through creative and efficient solutions. I aim to grow professionally by learning new technologies and best practices to develop solutions that positively impact people's lives.
   
 
 <br/>  
 
 
 
-### 🔨 Trabajando en...  
-- 🌱 Actualmente estoy desarrollando una pagina de encuestas opina.com
+### 🔨 Trabajando en...  / Working on
+- 🌱 Actualmente estoy desarrollando una pagina de encuestas opina.com  /  Currently working on opina.com
 
 <br/>  
 
