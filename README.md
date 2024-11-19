@@ -47,7 +47,7 @@ My goal is to drive the digital world forward through creative and efficient sol
 
 
 ### 🔨 Trabajando en...  / Working on
-- 🌱 Actualmente estoy desarrollando una pagina de encuestas opina.com  /  Currently working on opina.com
+- 🌱 Actualmente estoy en busca de nuevos desafios // Currently looking for new challenges
 
 <br/>  
 
