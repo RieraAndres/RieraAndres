@@ -1,5 +1,5 @@
 ## Hola! 👋, Soy Andres Riera!  
-## DesarrolladorFullStack |JavaScript |React |Node.js |WebDevelopment
+## FullStack Developer |JavaScript |React |Node.js |WebDevelopment
   
 
 <a href="https://github.com/RieraAndres" target="_blank">
